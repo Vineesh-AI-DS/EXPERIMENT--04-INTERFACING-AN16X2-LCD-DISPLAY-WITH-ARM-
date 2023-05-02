@@ -204,7 +204,8 @@ int main(void)
 
 ## Output screen shots of proteus  :
 
- ![Uploading WhatsApp Image 2023-05-02 at 8.25.17 AM.jpeg…]()
+ ![WhatsApp Image 2023-05-02 at 8 25 17 AM](https://user-images.githubusercontent.com/93427254/235579066-14ba317f-f4b4-48de-97b3-becacabcdc8f.jpeg)
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
