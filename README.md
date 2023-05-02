@@ -210,7 +210,7 @@ int main(void)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- ![WhatsApp Image 2023-05-02 at 8 26 39 AM](https://user-images.githubusercontent.com/93427254/235578817-bf14bb3f-7539-4b63-a0be-ce3ad467aada.jpeg)
+ ![o1](https://user-images.githubusercontent.com/93427254/235589679-6178f6b6-190e-452d-ba31-3e270384fd0f.jpeg)
 
  
 ## Result :
